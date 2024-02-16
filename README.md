@@ -1,27 +1,46 @@
-# PathPavers
+# Description
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-## Development server
+In the challenging landscape of the current job market, recent graduates, especially those from international backgrounds, often find themselves in a precarious position. Recognizing this issue, we developed GradGrove, an innovative application designed to connect MS graduates in Computer Science with volunteer opportunities that not only enhance their skills but also keep them engaged and compliant with immigration regulations.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+GradGrove is an initiative aimed at providing practical, real-world experience to budding software developers. This project marked my debut in a hackathon-style competition among peers, where the fusion of creativity, technology, and a pressing need for graduate support culminated in the creation of GradGrove.
 
-## Code scaffolding
+![Thumbnail](https://github.com/srighankittu/GradGrove/blob/main/public/assets/logo/banner.webp)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+GradGrove acts as a bridge between recent graduates and professors willing to supervise volunteer projects. Through a user-friendly interface, graduates can register, find volunteer tasks aligned with their skills, and commit to 21 hours of weekly work under the guidance of a mentor. The application emphasizes accountability and growth, requiring weekly progress reports to ensure both the development of the graduate and the fulfillment of volunteer commitments.
 
-## Build
+## Demo
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Live view by clicking the badge: [![Netlify Status]()(Not Live Yet!)
 
-## Running unit tests
+You can also clone the project and open it in localhost, or enjoy the preview
+video below instead :smile: (Which will be uploaded soon!)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Contribution
 
-## Running end-to-end tests
+To contribute to this project please check out the [contribution guidelines](https://github.com/srighankittu/GradGrove/blob/main/CONTRIBUTION.md).
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Prerequisits
 
-## Further help
+Before cloning/forking this project, make sure you have the following tools installed:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- [Git](https://git-scm.com/downloads)
+- [NodeJS](https://nodejs.org/en/download/)
+
+## Installation
+
+1. Fork the project
+2. Clone the project
+3. Follow the instructions in the console:
+4. Navigate to the project directory cd sos-animals
+5. Install the dependencies npm install
+6. Run the project npm start
+
+## Contributors
+
+[//]: contributor-faces
+
+<a href="https://github.com/srighankittu"><img src="https://avatars.githubusercontent.com/u/107845663?v=4" title="Srighan Vedere" width="60" height="60"></a>
+
+[//]: contributor-faces
